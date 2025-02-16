@@ -1,5 +1,4 @@
-# username.github.io
-Voyage Emporium
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
